@@ -6,13 +6,13 @@
 
 
 
-- 🤔 &nbsp; Exploring new microcontrollers and tecnologies  .
+- 🤔 &nbsp; Exploring new microcontrollers and tecnologies.
 
 - 🎓 &nbsp; Studying electronic engineering at Universidad del Valle.
 
 - 🌱 &nbsp; Learning about digital design and machine learning.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; making new devices as hobby.
 
 
 
