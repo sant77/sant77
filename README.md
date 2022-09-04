@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning about digital design and machine learning.
 
-- ✍️ &nbsp; making new devices as hobby.
+- ✍️ &nbsp; Making new devices as a hobby.
 
 
 
@@ -25,6 +25,6 @@
 
 <h3>🛠 To Learn</h3>
 
-- :telescope: &nbsp; JavaScripts | Machine learning
+- :telescope: &nbsp; JavaScript | Machine Learning
 
 <hr>
