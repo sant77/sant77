@@ -19,7 +19,7 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Python | C | C++ | VHDL 
+- 💻 &nbsp; Python | C | C++ | VHDL | Java
 
 
 
