@@ -8,9 +8,9 @@
 
 - 🤔 &nbsp; Exploring new microcontrollers and tecnologies.
 
-- 🎓 &nbsp; Studying electronic engineering at Universidad del Valle.
+- 🎓 &nbsp; Electronic engineering at Universidad del Valle.
 
-- 🌱 &nbsp; Learning about digital design and machine learning.
+- 🌱 &nbsp; Learning about blockchain and machine learning.
 
 - ✍️ &nbsp; Making new devices as a hobby.
 
