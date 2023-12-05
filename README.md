@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Electronic engineering at Universidad del Valle.
 
-- 🌱 &nbsp; Learning about blockchain and machine learning.
+- 🌱 &nbsp; Learning about blockchain, machine learning and API desigin.
 
 - ✍️ &nbsp; Making new devices as a hobby.
 
@@ -19,12 +19,12 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Python | C | C++ | VHDL | Java
+- 💻 &nbsp; Python | C | C++ | VHDL | Java | Angular
 
 
 
 <h3>🛠 To Learn</h3>
 
-- :telescope: &nbsp; JavaScript | Machine Learning
+- :telescope: &nbsp; Machine Learning
 
 <hr>
